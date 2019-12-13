@@ -1,3 +1,6 @@
+:fire: Disclaimer: ceva incercare de a face un gammu + un rpi + un dongle de net sa functioneze si sa trimita sms-uri.
+poate merge, poate nu, dar daca vrei un serviciu de trimis sms-uri, dai pe [SMSO](https://smso.ro) si zi ca te-a trimis nece
+
 # Super Ultra Awesome SMS Gateway on RPI  #
 
 IT'S ALIVE, intr-o oarecare masura
