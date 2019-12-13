@@ -31,5 +31,5 @@ Expect post data
 * 200: everything OK
 * 400: [major fail](http://cdn.lolhappens.com/wp-content/uploads/2012/12/Majorwedgiefail.jpg)
 
-### Status Codes ###
+### License ###
 Licenta e WTFPL, evident.
