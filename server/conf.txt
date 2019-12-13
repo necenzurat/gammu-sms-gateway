@@ -1,0 +1,10 @@
+[gammu]
+
+port = /dev/ttyUSB0
+model = 
+connection = at19200
+synchronizetime = yes
+logfile = dongle-1.log
+logformat = textall
+use_locking = 
+gammuloc = 
